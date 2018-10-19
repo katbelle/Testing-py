@@ -29,6 +29,9 @@ def most_and_least_common_type(treats):
     >>> most_and_least_common_type(get_treats())
     ('dessert', 'drink')
 
+    >>> print(most_and_least_common_type(get_treats())
+    (None, None)
+
 
 
 
